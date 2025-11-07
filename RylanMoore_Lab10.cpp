@@ -1,3 +1,16 @@
+/*
+Name: Rylan Moore
+KUID: 3178889
+LAB Session: Fri 3PM
+LAB Assignment: 10
+Collaborators / Sources: ChatGPT
+ChatGPT used for template and formatting, code filled in most places and modifed by me. All comments written by me.
+
+USE: rylanmoore_lab10<input.txt
+*/
+
+
+
 // includes and using directives
 #include <bits/stdc++.h>
 using namespace std;
